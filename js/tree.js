@@ -113,12 +113,12 @@
         $("#we").fadeIn(5000);
     }));
     var showTypewriterAnimate = eval(Jscex.compile("async", function() {
-        var word = 'To Tanya:<br><br>';
+        var word = 'To Sumaiya Quéeñ:<br><br>';
         word += getRandomWord() + '<br><br>';
         for (var i = 0; i < 10; i++) {
             word += ' ';
         }
-        word += ' --- From Ritesh';
+        word += ' --- From MR᭄﹅MAHABUB﹅ メꪜ ';
         $('#words').html(word);
         $('#words').show().typewriter();
     }));
