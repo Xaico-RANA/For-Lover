@@ -113,12 +113,12 @@
         $("#we").fadeIn(5000);
     }));
     var showTypewriterAnimate = eval(Jscex.compile("async", function() {
-        var word = 'To Sumaiya Quéeñ:<br><br>';
+        var word = 'To AFROJA:<br><br>';
         word += getRandomWord() + '<br><br>';
         for (var i = 0; i < 10; i++) {
             word += ' ';
         }
-        word += ' --- From MR᭄﹅MAHABUB﹅ メꪜ ';
+        word += ' --- From RANA ';
         $('#words').html(word);
         $('#words').show().typewriter();
     }));
