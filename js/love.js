@@ -177,7 +177,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px 马哈布·拉赫曼,Verdana";
-            ctx.fillText("To My Better Half", 23, 10);
+            ctx.fillText("My Dear One ❤️‍🩹", 23, 10);
             ctx.restore();
         },
         clear: function() {
